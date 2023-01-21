@@ -14,6 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+The program for solutions for the linear equations is
 ```import numpy as np
 A = np.array([[1,-3],[3,1]])
 B = np.array([0,10])
